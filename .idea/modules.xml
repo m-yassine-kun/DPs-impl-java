@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DB_Singleton/DB_Singleton.iml" filepath="$PROJECT_DIR$/DB_Singleton/DB_Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DB_Strategy/DB_Strategy.iml" filepath="$PROJECT_DIR$/DB_Strategy/DB_Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP_AbstractFactory/DP_AbstractFactory.iml" filepath="$PROJECT_DIR$/DP_AbstractFactory/DP_AbstractFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP_Adapter/DP_Adapter.iml" filepath="$PROJECT_DIR$/DP_Adapter/DP_Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP_Composite/DP_Composite.iml" filepath="$PROJECT_DIR$/DP_Composite/DP_Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP_Decorator/DP_Decorator.iml" filepath="$PROJECT_DIR$/DP_Decorator/DP_Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP_FactoryMethod/DP_FactoryMethod.iml" filepath="$PROJECT_DIR$/DP_FactoryMethod/DP_FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP_Observator/DP_Observator.iml" filepath="$PROJECT_DIR$/DP_Observator/DP_Observator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP_TemplateMethod/DP_TemplateMethod.iml" filepath="$PROJECT_DIR$/DP_TemplateMethod/DP_TemplateMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Ouatik_cours.iml" filepath="$PROJECT_DIR$/.idea/Ouatik_cours.iml" />
+    </modules>
+  </component>
+</project>
